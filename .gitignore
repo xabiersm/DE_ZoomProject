@@ -1,0 +1,7 @@
+saq_env/.gitignore
+saq_env/
+seoul_air_data/terraform/keys/my-creds.json
+seoul_air_data/terraform/.terraform.lock.hcl
+seoul_air_data/terraform/terraform.tfstate
+seoul_air_data/terraform/.terraform/providers/registry.terraform.io/hashicorp/google/5.6.0/windows_amd64/terraform-provider-google_v5.6.0_x5.exe
+seoul_air_data/terraform/terraform.tfstate.backup
